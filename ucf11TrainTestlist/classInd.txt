@@ -1,0 +1,11 @@
+1 diving
+2 biking
+3 golf
+4 juggle
+5 jumping
+6 riding
+7 shooting
+8 spiking
+9 swing
+10 tennis
+11 walk
